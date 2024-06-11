@@ -21,9 +21,9 @@
 title: Freaks Like Us
 #email: your-email@example.com
 description: spelunking and sharing
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: https://freakslikeus.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  freakslikeus
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+#url: https://freakslikeus.github.io # the base hostname & protocol for your site, e.g. http://example.com
+#github_username:  freakslikeus
 
 
 # Build settings
