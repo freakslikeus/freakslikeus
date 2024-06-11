@@ -29,7 +29,7 @@ url: https://freakslikeus.github.io # the base hostname & protocol for your site
 github_username:  freakslikeus
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
